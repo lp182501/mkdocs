@@ -93,7 +93,7 @@
         2. Donec vitae suscipit est
         3. Nulla tempor lobortis orci
         ```
-??? example
+??? collapsable example
 
     === "Unordered List"
 
