@@ -13,7 +13,7 @@ site_name: Monkey Docs
 
 theme:
   name: material
-  logo: logo/logo1.png
+  logo: logo/logo500x500.png
   features:
     - navigation.tabs
     - navigation.sections
