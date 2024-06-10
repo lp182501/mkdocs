@@ -76,7 +76,7 @@
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
     massa, nec semper lorem quam in massa.
 
-!!! example
+!!! example "Tabs"
 
     === "Unordered List"
 
@@ -93,7 +93,10 @@
         2. Donec vitae suscipit est
         3. Nulla tempor lobortis orci
         ```
-??? collapsable example
+***
+Some text
+
+??? example "Collapsible"
 
     === "Unordered List"
 
