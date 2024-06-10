@@ -3,15 +3,12 @@
 ## Contents Tab
 
 === "Chimay"
-
   Chimay is a great belgian trappist beer.
 
 === "Karmeliet"
-
   *Karmeliet* is a great belgian blond beer.
 
 === "Leffe"
-
   Friends don't let friends drink Leffe.
 
 ## Code block
