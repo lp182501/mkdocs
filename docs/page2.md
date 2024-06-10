@@ -1,5 +1,5 @@
 # Page 2
 
-## Another headings
+## Another heading
 
 Some more example text
