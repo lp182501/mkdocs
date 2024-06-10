@@ -4,9 +4,13 @@
 
 === "Chimay"
     Chimay is a great belgian trappist beer.
+    !!! Note
+        Example of note
 
 === "Karmeliet"
     *Karmeliet* is a great belgian blond beer.
+    !!! tip "Custome title"
+        Example tip.
 
 === "Leffe"
     Friends don't let friends drink Leffe.
