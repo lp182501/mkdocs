@@ -22,3 +22,7 @@
 print("Hello world!")
 zero_to_ten_double = [2*x for x in range(10)]
 ```
+Press ++ctrl+alt+del++ to restart the PC.<br> 
+Press ++win+f2++ to start the webbrowser.<br>
+
+[Link with keys](https://facelessuser.github.io/pymdown-extensions/extensions/keys/)
