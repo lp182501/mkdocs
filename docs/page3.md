@@ -7,7 +7,7 @@
     !!! Note
         Example of note
 
-=== "Karmeliet"
+===+ "Karmeliet"
     *Karmeliet* is a great belgian blond beer.
     !!! tip "Custome title"
         Example tip.
