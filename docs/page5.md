@@ -5,15 +5,16 @@ It also describes how to migrate the management interface, a two-arm deployment 
 !!! note "Note"
     The freeware version of LoadMaster is limited to 20Mbps.
 
-??? warning "Upgrading LoadMaster"It is not possible to upgrade the freeware version of LoadMaster without doing a complete re-install.<br>
+??? warning "Upgrading LoadMaster"
+    It is not possible to upgrade the freeware version of LoadMaster without doing a complete re-install.<br>
     This means backing up the old version, installing a new version and restoring the backup.
 
 ## Installation
-First register and download the **VMWare OVF** version at ^^[Kemp](https://freeloadbalancer.com)^^
+First register and download the **VMWare OVF** version at [Kemp](https://freeloadbalancer.com).
 
 === "Proxmox VE"
-    Upload the zip-file to the proxmox server using **scp**
-    `scp Free-VLM-VMWare-OVF-64bit.zip <user>@<ip-address>:/<directory>`
+    Upload the zip-file to the proxmox server using **scp**.<br>
+    `scp Free-VLM-VMWare-OVF-64bit.zip <user>@<proxmox-ip>:/<directory>`
     ### with pip <small>recommended</small> { #with-pip data-toc-label="with pip" }
 
 === "VMWare"
