@@ -1,1 +1,1 @@
-# Progress &copy; Kemp LoadMaster Installation
+# Progress ^&copy;^ Kemp LoadMaster Installation
