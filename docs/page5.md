@@ -1,2 +1,2 @@
-# Progress <sup>&copy;</sup> Kemp LoadMaster Installation
+# Progress<sup>&reg;</sup>Kemp LoadMaster Installation
 A^T^A
