@@ -19,7 +19,7 @@ font:
   code: Roboto Mono
   features:
     - navigation.tabs
-    - navigation.top
+    #- navigation.top
     - navigation.sections
     - toc.integrate
     - search.suggest
