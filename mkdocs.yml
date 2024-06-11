@@ -14,12 +14,8 @@ site_name: Monkey Docs
 theme:
   name: material
   logo: logo/logo6.png
-font:
-  text: Roboto
-  code: Roboto Mono
   features:
     - navigation.tabs
-    #- navigation.top
     - navigation.sections
     - toc.integrate
     - search.suggest
