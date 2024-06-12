@@ -71,10 +71,10 @@ extra:
     property: G-1XXXXXX
 nav:
   - Home: index.md
-#  - Load Balancers:
+  - Load Balancers:
 #    - **Progress**<sup>&reg;</sup>Kemp<sup>&reg;</sup>: page5.md
-#    - F5: page6.md
-#    - Traefik: admonition.md
+    - F5: page6.md
+    - Traefik: admonition.md
 
 copyright: |
   &copy; 2024 <a href="https://github.com/lp182501" target="_blank" rel="noopener">Leo van der Pauw</a>
