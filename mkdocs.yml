@@ -73,8 +73,8 @@ nav:
   - Home: index.md
   - Home Labbing:
     - Hypervisors: page1.md
-    - Index: page1.md
-    - Proxmox: page2.md
+     - Index: page1.md
+     - Proxmox: page2.md
   - Load Balancers:
     - Kemp: page5.md
     - F5: page6.md
