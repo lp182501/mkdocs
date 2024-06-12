@@ -1,15 +1,10 @@
 site_name: Monkey Docs
-  #nav:
-  #- Home: index.md
-  #- About: about.md
-  #- Docker Containers:
-  #    - Overview: docker-containers.md
-  #    - Adguard: adguard.md
-      # Additional Docker container pages...
-      #- Networking:
-      #    - Overview: networking-overview.md
-      #     - GlusterFS: glusterfs.md
-  # Additional sections...
+nav:
+  - Home: index.md
+  - Load Balancers:
+    - **Progress**<sup>&reg;</sup>Kemp<sup>&reg;</sup>: page5.md
+    - F5: page6.md
+    - Traefik: admonition.md
 
 theme:
   name: material
