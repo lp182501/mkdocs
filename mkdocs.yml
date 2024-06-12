@@ -39,7 +39,7 @@ markdown_extensions:
   - def_list
   - footnotes
   - md_in_html
-  -toc:
+  - toc:
       permalink: true
   - pymdownx.tabbed:
       alternate_style: true
