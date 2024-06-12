@@ -10,6 +10,17 @@ It also describes how to migrate the management interface, a two-arm deployment 
     It is not possible to upgrade the freeware version of LoadMaster without doing a complete re-install.<br>
     This means backing up the old version, installing a new version and restoring the backup.
 
+=== "Kemp"
+    Loadmaster
+
+=== "F5"
+    F5 BIG IP 3600
+
+=== "Traefik"
+    Traefik
+
+
+
 ### Installation
 First register and download the **VMWare OVF** version at [Kemp](https://freeloadbalancer.com).
 
