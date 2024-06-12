@@ -74,7 +74,7 @@ nav:
   - Home Labbing:
     - homelab/index.md
     - "Hypervisors": 
-      - homelab/hypervisors/index.md
+      - homelab/hypervisors/page1.md
       - homelab/hypervisors/page2.md
   - Load Balancers:
     - Kemp: page5.md
