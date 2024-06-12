@@ -36,7 +36,11 @@ markdown_extensions:
   - abbr
   - admonition
   - attr_list
-  # Additional Markdown extensions...
+  - def_list
+  - footnotes
+  - md_in_html
+  -toc:
+      permalink: true
   - pymdownx.tabbed:
       alternate_style: true
   - pymdownx.highlight:
@@ -54,7 +58,8 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.details
   - pymdownx.keys
-  # More pymdownx extensions...
+  - pymdownx.betterem:
+      smart_enable: all
 
 extra:
   social:
