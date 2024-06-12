@@ -72,9 +72,9 @@ extra:
 nav:
   - Home: index.md
   - Home Labbing:
-    - homelab/index.md
-    - Hypervisors: 
-      - homelab/hypervisors/index.md
+    #- homelab/index.md
+    - "Hypervisors": 
+      #- homelab/hypervisors/index.md
       - Proxmox: homelab/hypervisors/page2.md
   - Load Balancers:
     - Kemp: page5.md
