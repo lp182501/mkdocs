@@ -1,5 +1,5 @@
 # Load Balancers
-# **Progress**<sup>&reg;</sup>Kemp<sup>&reg;</sup> LoadMaster VM Installation
+# **Progress**<sup>&reg;</sup>Kemp<sup>&reg;</sup> LoadMaster
 This document describes the installation of the freeware version of the Kemp LoadMaster Load Balancer on a Proxmox VE.
 It also describes how to migrate the management interface, a two-arm deployment and how to configure http and https.
 
