@@ -1,5 +1,5 @@
 # Load Balancers
-# **Progress**<sup>&reg;</sup>Kemp<sup>&reg;</sup> LoadMaster
+## **Progress**<sup>&reg;</sup>Kemp<sup>&reg;</sup> LoadMaster
 This document describes the installation of the freeware version of the Kemp LoadMaster Load Balancer on a Proxmox VE.
 It also describes how to migrate the management interface, a two-arm deployment and how to configure http and https.
 
@@ -10,7 +10,7 @@ It also describes how to migrate the management interface, a two-arm deployment 
     It is not possible to upgrade the freeware version of LoadMaster without doing a complete re-install.<br>
     This means backing up the old version, installing a new version and restoring the backup.
 
-## Installation
+### Installation
 First register and download the **VMWare OVF** version at [Kemp](https://freeloadbalancer.com).
 
 === "Proxmox VE"
