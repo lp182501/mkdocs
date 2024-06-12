@@ -1,10 +1,10 @@
 site_name: Monkey Docs
-nav:
-  - Home: index.md
-  - Load Balancers:
-    - **Progress**<sup>&reg;</sup>Kemp<sup>&reg;</sup>: page5.md
-    - F5: page6.md
-    - Traefik: admonition.md
+#nav:
+#  - Home: index.md
+#  - Load Balancers:
+#    - **Progress**<sup>&reg;</sup>Kemp<sup>&reg;</sup>: page5.md
+#    - F5: page6.md
+#    - Traefik: admonition.md
 
 theme:
   name: material
