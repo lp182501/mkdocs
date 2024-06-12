@@ -73,13 +73,13 @@ nav:
   - Home: index.md
   - Home Labbing:
     - Hypervisors: page1.md
-      - Index: page1.md
-      - Proxmox: page2.md
-    - Load Balancers:
-      - Kemp: page5.md
-      - F5: page6.md
-      - Traefik: admonition.md
-    - Docker: page3.md
+    - Index: page1.md
+    - Proxmox: page2.md
+  - Load Balancers:
+    - Kemp: page5.md
+    - F5: page6.md
+    - Traefik: admonition.md
+  - Docker: page3.md
     
 copyright: |
   &copy; 2024 <a href="https://github.com/lp182501" target="_blank" rel="noopener">Leo van der Pauw</a>
