@@ -102,8 +102,8 @@ nav:
     #- Homelab:
     - homelab/index.md
     - "VE": 
-      - Proxmox: homelab/ve/page1.md
-      - VMWare: homelab/ve/page2.md
+      Proxmox: homelab/ve/page1.md
+      VMWare: homelab/ve/page2.md
     - "Containers": 
       - Docker: homelab/container/page1.md
       - Docker-Compose: homelab/container/page2.md
