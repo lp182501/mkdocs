@@ -106,18 +106,20 @@ nav:
           - VMWare: homelab/ve/page2.md
         - "Containers": 
           - docker: homelab/container/page1.md
-          - podman: homelab/container/page1.md
-          - kubernetes: homelab/container/page2.md
+          - docker-compose: homelab/container/page2.md
+          - podman: homelab/container/page3.md
+          - kubernetes: homelab/container/page4.md
         - "Load Balancers": 
           - Kemp: homelab/loadbalancer/page1.md
           - F5: homelab/loadbalancer/page2.md
-          - Traefik: homelab/loadbalancer/page1.md
+          - Traefik: homelab/loadbalancer/page3.md
         - "Automation": 
           - ansible: homelab/automation/page1.md
           - opentofu: homelab/automation/page2.md
         - "Network": 
           - routing: homelab/network/page1.md
           - wifi: homelab/network/page2.md
+          - dns: homelab/network/page3.md
         
 
 # Don't think I really need this...
