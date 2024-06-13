@@ -1,37 +1,50 @@
+# Project information
 site_name: Monkey Docs
 theme:
   name: material
   logo: assets/logo6.png
   features:
-    - navigation.tabs
-    - navigation.top
-    - navigation.sections
-    #- toc.integrate
-    - toc.follow
-    - search.suggest
-    - search.highlights
-    - content.tabs.link
+    - announce.dismiss
+    - content.action.edit
+    - content.action.view
+    # - content.tabs.link
     - content.code.annotation
     - content.code.copy
+    - content.code.tooltips
+    - navigation.foot
+    - navigation.indexes
+    - navigation.sections
+    - navigation.tabs
+    - navigation.top
+    - navigation.tracking
+    - search.suggest
+    - search.highlights
+    - search.share
+    - search.suggest
+    #- toc.integrate 
+    - toc.follow
+
+
   language: en
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
       toggle:
-        #icon: material/toggle-switch-off-outline
-        icon: material/brightness-7
+        icon: material/toggle-switch-off-outline
+        #icon: material/brightness-7
         name: Switch to dark mode
       primary: teal
       accent: purple
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       toggle:
-        #icon: material/toggle-switch
-        icon: material/brightness-4
+        icon: material/toggle-switch
+        #icon: material/brightness-4
         name: Switch to light mode
       primary: teal
       accent: lime
 
+# MD extensions
 markdown_extensions:
   - abbr
   - admonition
@@ -41,26 +54,31 @@ markdown_extensions:
   - md_in_html
   - toc:
       permalink: true
-  - pymdownx.tabbed:
-      alternate_style: true
-  - pymdownx.highlight:
-      anchor_linenums: true
-  - pymdownx.inlinehilite
-  - pymdownx.snippets
   - pymdownx.arithmatex:
       generic: true
-  - footnotes
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
   - pymdownx.details
-  - pymdownx.mark
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
-  - pymdownx.superfences
-  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
   - pymdownx.keys
-  - pymdownx.betterem:
-      smart_enable: all
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.snippets
+    #  auto_append:
+    #    - includes/mkdocs.md
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
 
+# Extra config
 extra:
   social:
     - icon: fontawesome/brands/github
@@ -74,6 +92,8 @@ extra:
   analytics:
     provider: google
     property: G-1XXXXXX
+
+# Page navigation
 nav:
   - Home: index.md
   - Home Labbing:
@@ -86,6 +106,7 @@ nav:
     - F5: page6.md
     - Traefik: admonition.md
   - Docker: page3.md
-    
+
+# Don't think I really need this...
 copyright: |
   &copy; 2024 <a href="https://github.com/lp182501" target="_blank" rel="noopener">Leo van der Pauw</a>
