@@ -98,8 +98,8 @@ nav:
   - Home: index.md
   - Getting started:
     - Installation: page1.md
-    - Homelab:
-      - homelab/index.md
+    - Homelab: homelab/index.md
+      # - homelab/index.md
       - "Hypervisors": 
         - homelab/hypervisors/page1.md
         - homelab/hypervisors/page2.md
