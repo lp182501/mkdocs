@@ -1,5 +1,7 @@
 # Project information
 site_name: Monkey Docs
+site_url: https://docs.networkmonkey.io/
+site_author: Leo van der Pauw
 theme:
   name: material
   logo: assets/logo6.png
