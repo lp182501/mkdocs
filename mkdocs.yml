@@ -103,24 +103,24 @@ nav:
   - Homelab:
     - home:
       - homelab/index.md
-      - "VE": 
+      - VE: 
         - Proxmox: homelab/ve/page1.md
         - VMWare: homelab/ve/page2.md
-      - "Containers": 
+      - Containers: 
         - Docker: homelab/container/page1.md
         - Docker-Compose: homelab/container/page2.md
         - Podman: homelab/container/page3.md
         - K8s: homelab/container/page4.md
         - K3s: homelab/container/page5.md
         - K0s: homelab/container/page6.md
-      - "Load Balancers": 
+      - Load Balancers: 
         - Kemp: homelab/loadbalancer/page1.md
         - F5: homelab/loadbalancer/page2.md
         - Traefik: homelab/loadbalancer/page3.md
-      - "Automation": 
+      - Automation: 
         - ansible: homelab/automation/page1.md
         - opentofu: homelab/automation/page2.md
-      - "Network": 
+      - Network: 
         - Routing & Switching: homelab/network/page1.md
         - WiFi: homelab/network/page2.md
         - DNS: homelab/network/page3.md
