@@ -99,7 +99,7 @@ extra:
 nav:
   - Home: index.md
   - Homelab:
-    - Homelab:
+    #- Homelab:
         #- homelab/index.md
         - "VE": 
           - Proxmox: homelab/ve/page1.md
