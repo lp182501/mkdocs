@@ -98,17 +98,19 @@ extra:
 # Page navigation
 nav:
   - Home: index.md
-  - Getting started:
+  - Homelab:
     - Homelab:
         - homelab/index.md
         - "VE": 
-          - proxmox: homelab/ve/page1.md
+          - Proxmox: homelab/ve/page1.md
           - VMWare: homelab/ve/page2.md
         - "Containers": 
-          - docker: homelab/container/page1.md
-          - docker-compose: homelab/container/page2.md
-          - podman: homelab/container/page3.md
-          - kubernetes: homelab/container/page4.md
+          - Docker: homelab/container/page1.md
+          - Docker-Compose: homelab/container/page2.md
+          - Podman: homelab/container/page3.md
+          - K8s: homelab/container/page4.md
+          - K3s: homelab/container/page5.md
+          - K0s: homelab/container/page6.md
         - "Load Balancers": 
           - Kemp: homelab/loadbalancer/page1.md
           - F5: homelab/loadbalancer/page2.md
@@ -117,9 +119,10 @@ nav:
           - ansible: homelab/automation/page1.md
           - opentofu: homelab/automation/page2.md
         - "Network": 
-          - routing: homelab/network/page1.md
-          - wifi: homelab/network/page2.md
-          - dns: homelab/network/page3.md
+          - Routing & Switching: homelab/network/page1.md
+          - WiFi: homelab/network/page2.md
+          - DNS: homelab/network/page3.md
+          - Firewall: homelab/network/page4.md
         
 
 # Don't think I really need this...
