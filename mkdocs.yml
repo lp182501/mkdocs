@@ -79,6 +79,7 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
+  - pymdownx.tilde
 
 # Extra config
 extra:
@@ -99,7 +100,7 @@ extra:
 nav:
   - Home: index.md
   - Homelab:
-    -  :
+    - home:
       - homelab/index.md
       - "VE": 
         - Proxmox: homelab/ve/page1.md
