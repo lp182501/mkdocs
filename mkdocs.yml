@@ -99,12 +99,26 @@ extra:
 nav:
   - Home: index.md
   - Getting started:
-    - Installation: page4.md
     - Homelab:
         - homelab/index.md
-        - "Hypervisors": 
-          - homelab/hypervisors/page1.md
-          - homelab/hypervisors/page2.md
+        - "VE": 
+          - proxmox: homelab/ve/page1.md
+          - VMWare: homelab/ve/page2.md
+        - "Containers": 
+          - docker: homelab/container/page1.md
+          - podman: homelab/container/page1.md
+          - kubernetes: homelab/container/page2.md
+        - "Load Balancers": 
+          - Kemp: homelab/loadbalancer/page1.md
+          - F5: homelab/loadbalancer/page2.md
+          - Traefik: homelab/loadbalancer/page1.md
+        - "Automation": 
+          - ansible: homelab/automation/page1.md
+          - opentofu: homelab/automation/page2.md
+        - "Network": 
+          - routing: homelab/network/page1.md
+          - wifi: homelab/network/page2.md
+        
 
 # Don't think I really need this...
 copyright: |
