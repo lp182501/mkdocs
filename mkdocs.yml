@@ -15,7 +15,8 @@ theme:
     - content.code.tooltips
     - navigation.footer
     - navigation.indexes
-    - navigation.sections
+    - navigation.path
+    #- navigation.sections
     - navigation.tabs
     - navigation.top
     - navigation.tracking
