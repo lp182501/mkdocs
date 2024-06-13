@@ -100,7 +100,7 @@ nav:
   - Home: index.md
   - Homelab:
     - Homelab:
-        - homelab/index.md
+        #- homelab/index.md
         - "VE": 
           - Proxmox: homelab/ve/page1.md
           - VMWare: homelab/ve/page2.md
