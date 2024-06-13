@@ -13,7 +13,7 @@ theme:
     - content.code.annotation
     - content.code.copy
     - content.code.tooltips
-    - navigation.foot
+    - navigation.footer
     - navigation.indexes
     - navigation.sections
     - navigation.tabs
