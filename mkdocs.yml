@@ -128,6 +128,7 @@ nav:
       - Firewall: homelab/network/page4.md
     - Links:
       - dotfiles.github.io: /homelab/links/page1.md
+      - https://hub.docker.com/r/kasmweb/ubuntu-focal-desktop: /webbased/ubuntu/have/to/try.md
 
 # Don't think I really need this...
 copyright: |
