@@ -110,9 +110,10 @@ nav:
       - Docker: homelab/container/page1.md
       - Docker-Compose: homelab/container/page2.md
       - Podman: homelab/container/page3.md
-      - K8s: homelab/container/page4.md
+      - K0s: homelab/container/page4.md
       - K3s: homelab/container/page5.md
-      - K0s: homelab/container/page6.md
+      - K8s: homelab/container/page6.md
+      - K9s: homelab/container/page7.md
     - Load Balancers: 
       - Kemp: homelab/loadbalancer/page1.md
       - F5: homelab/loadbalancer/page2.md
@@ -125,7 +126,8 @@ nav:
       - WiFi: homelab/network/page2.md
       - DNS: homelab/network/page3.md
       - Firewall: homelab/network/page4.md
-        
+    - Links:
+      - dotfiles.github.io: /homelab/links/page1.md
 
 # Don't think I really need this...
 copyright: |
